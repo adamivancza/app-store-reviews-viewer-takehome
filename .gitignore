@@ -1,0 +1,19 @@
+.DS_Store
+
+# Go build and test output
+/bin/
+*.test
+coverage.out
+
+# Runtime state (the directory is created automatically)
+/data/
+
+# Frontend dependencies and generated output
+/web/node_modules/
+/web/dist/
+/web/coverage/
+
+# Local environment overrides
+.env
+.env.*
+!.env.example

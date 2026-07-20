@@ -1,0 +1,10 @@
+{
+  "key": "spotify-us",
+  "name": "Spotify",
+  "appId": "324684580",
+  "country": "us",
+  "pollInterval": "5m",
+  "maxPages": 10,
+  "dataDir": "../data",
+  "listenAddr": ":8080"
+}
